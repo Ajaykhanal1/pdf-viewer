@@ -1,4 +1,4 @@
-# PDF Viewer
+# PDF Viewer user admin Pass Admin12345! 
 
 A single-module PDF library. Admins sign in to upload and delete PDFs; users open the app,
 browse the documents and read them inside the app. There is no download, share, or print action.
