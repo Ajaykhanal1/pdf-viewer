@@ -6,6 +6,18 @@ browse the documents and read them inside the app. There is no download, share, 
 - **Backend:** Django 6 + Django REST Framework, SQLite, private local media storage
 - **Frontend:** React Native 0.88 + TypeScript, React Navigation, Axios, `react-native-pdf`
 
+## Download the Android app
+
+**[⬇ Download PdfViewer-1.0.apk](https://github.com/Ajaykhanal1/pdf-viewer/releases/download/v1.0.0/PdfViewer-1.0.apk)** (87 MB)
+
+1. Open the link on your phone and download the file.
+2. Tap the downloaded file. If Android warns about installing unknown apps, allow your browser or
+   file manager to install apps, then tap install again.
+3. Open **PDF Viewer** from your app drawer.
+
+Requires Android 7.0 or newer. The documents are bundled in the app, so it works offline.
+Every release is listed on the [releases page](https://github.com/Ajaykhanal1/pdf-viewer/releases).
+
 ## Project layout
 
 ```
